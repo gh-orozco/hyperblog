@@ -1,0 +1,16 @@
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Mañana nos enfocaremos en su vida laboral
+
+<<<<<<< HEAD
+=======
+Realizo est cambio para poder usar el comando push
+pero desde el nuevo ambiente ssh.
+
+Cambio para obtener por medio de pull en local.
+>>>>>>> 69dd20ed018f5b02290dd656c94a7c451c539333
+
+Cambio realizado desde la rama cabecera.
+Este es otro cambio, al anterior fue fallido y no se reflejo en origin main.
